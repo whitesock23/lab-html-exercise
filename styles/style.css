@@ -129,6 +129,11 @@ section {
       text-decoration: none;
   }
 
+  .button-link-2 {
+    color: black;
+    text-decoration: none;
+}
+
   .flex {
       display: flex;
       justify-content: center;
@@ -166,3 +171,4 @@ section {
     transform: skew(9deg,0deg);
     font-style: italic;
 }
+
