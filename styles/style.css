@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+body {
+  font-family: 'Poppins';
+}
+
+.logo {
+   width: 70px;
+}
+header > div {
+    padding: 10px 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+  }
+
+  #join {
+      border: 1px solid;
+      padding: 10px;
+      margin-right: 20px;
+  }
+
+  .sub-section-2 {
+    background-color: #fff;
+    padding: 25px 0;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+  .button-form {
+    background-color: #fb3e44;
+    color:white;
+    height: 50px;
+  }
+
+  .button-input {   
+    background-color: rgba(0,0,0,.05);
+    width: 900px;
+    height: 50px;
+    border: none;
+    padding: 0 5px;
+  }
+
+.flex.top {
+    display: contents;
+}
+  
+  nav {
+    width: 600px;
+  }
+
+  article {
+    width: 600px;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .blackHeart {
+    width: 20px;
+    margin-right: 1rem;
+  }
+
+section {
+    padding: 30px 0;
+  }
+
+  #body-1 {
+    display: flex;
+    justify-content: center;
+  }
+
+  h1.section-1-h1 {
+    text-align: center;
+  }
+
+  .diamond {
+    width: 30%;
+    margin: 0 auto;
+    padding: 32px;
+  }
+
+  .box img {
+      width: 20px;
+  }
+
+  .box h4 {
+      color: #ED1C24;
+  }
+
+  .box {
+  }
+
+  .inside {
+      padding: 10px;
+  }
+
+  .boxes {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      width: 900px;
+  }
+
+  .box p {
+      font-size: 12px;
+  }
+
+  .button {
+    background-color: #000000;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    box-shadow: 8px 8px 0 rgba(128,83,35,.2);    
+  }
+
+  .button-link {
+      color:white;
+      text-decoration: none;
+  }
+
+  .flex {
+      display: flex;
+      justify-content: center;
+  }
+
+  .section-1-buttons {
+      padding: 60px;
+  }
+
+  .section-1-button-1 {
+      padding: 0 60px;
+      background-color: #FB3B49;
+      box-shadow: 8px 8px 0 rgba(251,59,73,.2);
+      border: none;
+      color: white;
+      padding: 15px 32px;
+  }
+
+  .section-1-button-2 {
+    padding: 0 60px;
+    border: none;
+    padding: 15px 32px;
+}
+
+.section-1-button-2 .button-link {
+    color:black;
+}
+
+.body-1 {
+    background-color: rgba(232,217,217,.3)
+}
+
+#body-2 h1 {
+    background-color: rgba(255,204,53,.4);
+    transform: skew(9deg,0deg);
+    font-style: italic;
+}
